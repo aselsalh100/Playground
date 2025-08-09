@@ -10,3 +10,5 @@
   - Project board: <https://github.com/users/aselsalh100/projects/5> Course — Week 01
   - <Issue: <https://github.com/users/aselsalh100/projects/5/views/1?pane=issue&itemId=123593063&issue=aselsalh100%7CPlayground%7C1
 - Notes: none
+- Done: [W01] Env Check → SYSTEM-REPORT.md (#1)
+- Next step: [W01] First PHP Page (php -S) → Screenshot
